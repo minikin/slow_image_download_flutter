@@ -1,3 +1,3 @@
 # Slow Image Download Flutter
 
-This project demonstrates slow image download in FLutter/Dart apps.
+This project demonstrates slow image download in Flutter/Dart apps.
